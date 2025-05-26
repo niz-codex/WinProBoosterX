@@ -1,7 +1,7 @@
 # ⚡ WinProBoosterX v1.0.0
 
 > Advanced Windows Optimization CLI Tool  
-> 🔧 Developed with love by **Nizath** 🇱🇰  
+> 🔧 Developed with love by **Nizath**   
 > 📅 Version: `1.0.0` | 🖥️ Platform: Windows | 👨‍💻 Language: C
 
 ---
@@ -54,5 +54,5 @@ gcc -o WinProBoosterX WinProBoosterX.c
 
 🔐 Default Authentication
 On launch, you’ll be prompted to enter a password:
- - Default password: admin123
- -🔒 You can change this in the authenticate() function in the source code.
+- Default password: admin123
+-🔒 You can change this in the authenticate() function in the source code.
