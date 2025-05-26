@@ -51,8 +51,3 @@ git clone https://github.com/yourusername/WinProBoosterX.git
 cd WinProBoosterX
 gcc -o WinProBoosterX WinProBoosterX.c
 ```
-
-🔐 Default Authentication
-On launch, you’ll be prompted to enter a password:
-- Default password: admin123
--🔒 You can change this in the authenticate() function in the source code.
